@@ -7,6 +7,7 @@ I am a low-level systems developer building barebones OS kernels, custom Linux d
 ### 🌐 Links & Socials
 [![Website](https://img.shields.io/badge/Website-apexnz--cmd.github.io-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://apexnz-cmd.github.io)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-06B6D4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UrdfAN2Ju)
+[![YouTube](https://img.shields.io/badge/YouTube-@apexnz--cmd-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@apexnz-cmd)
 
 ---
 
